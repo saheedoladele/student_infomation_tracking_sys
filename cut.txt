@@ -1,0 +1,16 @@
+<h3>Account Details</h3>
+     <b>BANK : GTB </b><br>
+     <b>ACCOUNT NAME: OLADELE SAHEED ADEWALE</b><br>
+     <b>ACCOUNT NUMBER: 0030027926</b><br>
+
+
+      <p>How are you today? trust you are doing well.</b>, this is to remind you that the program, <b>#LetCodeTogether</b> is starting on Wednesday 8, 2020, just one day to go. In leu of this, the following recommendations are for you.</p>
+        <ul>
+      <li>Get your mind ready for the task, you are about to start.</li>
+      <li>Get your device ready (PC or Smart Phone)</li>
+    <li>Visit https://zoom.us/download OR Playstore to download Zoom Application as the case may be.</li>
+      <li>Download VSCode at https://code.visualstudio.com/download or SublimeText at https://www.sublimetext.com/3 ORr any IDE of your choice.</li>
+      <li>For those that will be using Smart Phone, visit Google Playstore to Download VSCode/SublimeText for Android or iOS as the case may be.</li>
+      
+      <li>Make a <b>payment (Bank Deposit/Cash Transfer) of N5,000 </b>to the account details given below, this is inline with our Terms and Conditions.</li>
+       <li>Reply this mail with your evidence of payment. OR send it to any of our email address</li>
